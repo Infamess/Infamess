@@ -11,7 +11,7 @@
 <h2 align="center"> Miei progetti: </h2>
 
 [**TooManyPerms - Forked**](https://github.com/Infames/TooManyPerms)
-<br>**Stato**: In sviluppo:
+<br>**Stato**: In sviluppo
 
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Infamess&show_icons=true&count_private=true" alt="Infamess" /></p>
