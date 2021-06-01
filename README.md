@@ -10,7 +10,7 @@
 
 <h2 align="center"> Alcuni miei progetti: </h2>
 
-[**TooManyPerms - Forked**](https://github.com/Infames/TooManyPerms)
+[**TooManyPerms - Forked**](https://github.com/Infamess/TooManyPerms)
 <br>**Stato**: In sviluppo
 
 <hr>
