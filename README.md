@@ -5,12 +5,13 @@
 <h2 align="center"> In cosa programmo: </h2>
 <p align="center"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-008B8B?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <h2 align="center"> I programmi che uso: </h2>
 <p align="center"> 
-<img src="https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
+<img src="https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue" />
+<omg sec="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=blue" />
 </p>
 
 <h2 align="center"> Alcuni miei progetti: </h2>
